@@ -126,3 +126,11 @@
 - **GitHub Issues**：在本仓库中提交 *issue* 以进行进一步讨论。
 
 感谢您使用本仓库！祝您在学习程序设计与算法的旅程中取得成功！
+
+![1  Peking University - 计算导论与C语言基础](https://github.com/user-attachments/assets/507a1dce-b617-41df-ae0b-8a36b8bbced7)
+
+![2  Peking University - C程序设计进阶](https://github.com/user-attachments/assets/d785b413-9600-4dec-91c3-ecc45bb8daff)
+
+![3  Peking University - C++程序设计](https://github.com/user-attachments/assets/8b2a3773-152d-46a6-98fa-d36e80f8ed60)
+
+![4  Peking University - 算法基础](https://github.com/user-attachments/assets/ee0efc0b-c6d3-4b73-95d4-b752cba9ff3e)
